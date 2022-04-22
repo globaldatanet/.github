@@ -1,4 +1,4 @@
-<img src='https://github.com/globaldatanet/.github/raw/main/profile/logo-black.png'/>
+<img src='https://github.com/globaldatanet/.github/raw/main/profile/logo.png'/>
 
 ## Hi there 👋
 
