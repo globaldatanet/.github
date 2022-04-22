@@ -1,4 +1,5 @@
-<script type="text/javascript" src="/logo.js" onload="logo()" ></script>
+<img src='https://github.com/globaldatanet/.github/raw/main/profile/logo-black.png'/>
+
 ## Hi there 👋
 
 🙋‍♀️ We are **globaldatanet** 💜 Cloud-native Development & Optimization on AWS
