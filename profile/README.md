@@ -1,4 +1,4 @@
-![logo](logo-black.png)
+![logo](https://github.com/globaldatanet/.github/raw/main/profile/logo-black.png)
 
 ## Hi there 👋
 
