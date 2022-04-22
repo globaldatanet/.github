@@ -1,4 +1,4 @@
-![logo](./logo-black.png)
+![logo](logo-black.png)
 
 ## Hi there 👋
 
