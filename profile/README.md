@@ -2,7 +2,7 @@
 
 🙋‍♀️ We are **globaldatanet** 💜 Cloud-native Development & Optimization on AWS
 
-🌈 **Headquarters** - Hamburg, Hamburg
+🌈 **Headquarters** - Hamburg, Germany
 
 👩‍💻 **Founded** - 2017
 
