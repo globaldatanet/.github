@@ -6,3 +6,8 @@
 
 👩‍💻 **Founded** - 2017
 
+### Explore our latest blog posts:
+
+<!--START_SECTION:techblog-->
+...
+<!--END_SECTION:techblog-->
