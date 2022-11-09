@@ -11,11 +11,11 @@
 ### Explore our latest blog posts:
 
 <!--START_SECTION:techblog-->
+* [AWS IAM Identity Center Permission Management at Scale - Part 2](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;aws-iam-identity-center-permission-management-at-scale---part-2)
+* [Automating AWS IAM Identity Center Setup Part 1](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;automating-aws-iam-identity-center-setup-part-1)
 * [Dashboard widget for unique users accessing your API](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;dashboard-widget-for-unique-users-accessing-your-api)
 * [Terraform Pipeline with Gitlab CI and OIDC for AWS](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;terraform-pipeline-with-gitlab-ci-and-oidc-for-aws)
 * [Develop Lambda functions with AWS Lambda Powertools](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;develop-lambda-functions-with-aws-lambda-powertools)
-* [Reduce manual Call-Center efforts with Amazon Connect](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;reduce-manual-call-center-efforts-with-amazon-connect)
-* [Serverless querying and evaluating of Logs using Athena](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;serverless-querying-and-evaluating-of-logs-using-athena)
 <!--END_SECTION:techblog-->
 
 👾 [Curious to become part of our team?](https://globaldatanet.com/careers)
