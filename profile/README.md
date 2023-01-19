@@ -11,11 +11,11 @@
 ### Explore our latest blog posts:
 
 <!--START_SECTION:techblog-->
+* [The basics of isolating tenants in your SaaS application on AWS](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;the-basics-of-isolating-tenants-in-your-saas-application-on-aws)
 * [Blue-Green deployments using AWS Fargate and AWS CodeDeploy](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;blue-green-deployments-using-aws-fargate-and-aws-codedeploy)
 * [AWS IAM Identity Center Permission Management at Scale Part 2](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;aws-iam-identity-center-permission-management-at-scale-part-2)
 * [Automating AWS IAM Identity Center Setup Part 1](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;automating-aws-iam-identity-center-setup-part-1)
 * [Dashboard widget for unique users accessing your API](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;dashboard-widget-for-unique-users-accessing-your-api)
-* [Terraform Pipeline with Gitlab CI and OIDC for AWS](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;terraform-pipeline-with-gitlab-ci-and-oidc-for-aws)
 <!--END_SECTION:techblog-->
 
 👾 [Curious to become part of our team?](https://globaldatanet.com/careers)
