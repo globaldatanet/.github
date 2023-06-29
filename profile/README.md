@@ -11,11 +11,11 @@
 ### Explore our latest blog posts:
 
 <!--START_SECTION:techblog-->
+* [Driving Business Innovation with NLP and LLMs - Part 1 - QA Models](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;driving-business-innovation-with-nlp-and-llms---part-1---qa-models)
 * [Enterprise-scaled Self-Healing StackSets](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;enterprise-scaled-self-healing-stacksets)
 * [Demand prediction in retail with Amazon Forecast](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;demand-prediction-in-retail-with-amazon-forecast)
 * [How to pass the AWS Developer Associate DVA-C02 exam](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;how-to-pass-the-aws-developer-associate-dva-c02-exam)
 * [Serverless querying and evaluating of Logs using Athena Part 2](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;serverless-querying-and-evaluating-of-logs-using-athena-part-2)
-* [SaaS Multi-tenant application in EKS](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;saas-multi-tenant-application-in-eks)
 <!--END_SECTION:techblog-->
 
 👾 [Curious to become part of our team?](https://globaldatanet.com/careers)
