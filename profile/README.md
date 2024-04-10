@@ -11,7 +11,7 @@
 ### Explore our latest blog posts:
 
 <!--START_SECTION:techblog-->
-* [AI in Financial Services](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;ai-in-financial-services)
+* [Customer Support Chatbot ](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;customer-support-chatbot-)
 * [AI TRiSM](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;ai-trism)
 * [Ensuring Compliance with Custom AWS Config Rules](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;ensuring-compliance-with-custom-aws-config-rules)
 * [Deploying CloudFormation StackSets with AWS CDK](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;deploying-cloudformation-stacksets-with-aws-cdk)
