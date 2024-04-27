@@ -11,11 +11,11 @@
 ### Explore our latest blog posts:
 
 <!--START_SECTION:techblog-->
+* [AWS IAM Identity Center Permission Management at Scale Part 3](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;aws-iam-identity-center-permission-management-at-scale-part-3)
 * [Customer Support Chatbot ](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;customer-support-chatbot-)
 * [AI TRiSM](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;ai-trism)
 * [Ensuring Compliance with Custom AWS Config Rules](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;ensuring-compliance-with-custom-aws-config-rules)
 * [Deploying CloudFormation StackSets with AWS CDK](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;deploying-cloudformation-stacksets-with-aws-cdk)
-* [Driving Business Innovation with NLP and LLMs - Part 1 - QA Models](https:&#x2F;&#x2F;globaldatanet.com&#x2F;tech-blog&#x2F;driving-business-innovation-with-nlp-and-llms---part-1---qa-models)
 <!--END_SECTION:techblog-->
 
 👾 [Curious to become part of our team?](https://globaldatanet.com/careers)
